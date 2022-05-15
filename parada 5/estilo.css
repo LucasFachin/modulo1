@@ -1,0 +1,58 @@
+body{
+    background-color:#9c4d4d;
+    
+}
+
+p{
+    color:rgb(0, 0, 0)
+}
+
+header{
+    margin-left: 29%;
+    width: 41%;
+}
+
+#menu{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    overflow: hidden;
+    margin-left: 29%;
+    width: 41%;
+}
+
+#menu li{ /* posicionamento do li no menu */
+    float: left
+}
+
+#menu li a{ /*decoração do li */
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+#menu li a:hover{
+    transition: 0.5;
+    color: white;
+    background-color:cornflowerblue;
+}
+article{
+    background-color:white; /*cor de fundo */
+    text-align: justify; /* alinhamento do texto */
+    width: 40%;  /* largura do article */
+    padding: 10px;
+    margin-left: 29%
+}
+
+img{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    margin: 0px
+    
+}
