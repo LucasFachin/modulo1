@@ -1,24 +1,8 @@
-<h1>Desafio Parada 10</h1>
-
-​	Site Blaze (loja de roupas de grife)
-
-​    Equipe: Guilherme Moura e Lucas Fachin
+![Site Blaze](https://user-images.githubusercontent.com/104872538/171067128-27f37d2b-bd97-4253-8993-38d1216ebddd.png)
 
 
-
-<h3>Esta é a primeira Seção do meu site</h3>
-
-![Index](E:\Curso Programação Kick\Trabalho parada 7\Index.png)
+![image](https://user-images.githubusercontent.com/104872538/171067351-774a055f-0244-4d45-8fb9-1cf778ffb755.png)
 
 
-
-<h3>Esta é a segunda Seção do meu site</h3>
-
-![Tela Produtos](E:\Curso Programação Kick\Trabalho parada 7\Tela Produtos.png)
-
-
-
-<h3>Cores utlizadas</h3>
-
-![Cores Usadas Site Blaze](C:\Users\Desktop\Downloads\Cores Usadas Site Blaze.png)
-
+tabela de cores
+![image](https://user-images.githubusercontent.com/104872538/171067327-a30fc527-1cea-46fe-8077-d0dab15c438d.png)
